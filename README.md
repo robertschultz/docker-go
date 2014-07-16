@@ -1,7 +1,7 @@
 Introduction
 ---
 
-Docker configuration for a go language related stack. This will allow you to create an ubuntu image with go to spin up a bare bones go stack.
+Docker configuration for a go language related stack. This will allow you to create an ubuntu image with go to spin up a bare bones go stack for REST services.
 
 Build Docker Image
 ---
